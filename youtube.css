@@ -1,0 +1,9 @@
+/* Homepage main section: Recommended etc. */
+#feed,
+/* Homepage top menu: What to watch, subscriptions, music */
+#masthead-appbar,
+/* Left menu: Your subscriptions*/
+#guide-subscriptions-section
+{
+	display: none !important;
+}

@@ -1,0 +1,9 @@
+/* Home page: Stream */
+.home-stream,
+/* Left: Trends module */
+.Trends,
+/* Right: Who to follow module */
+.wtf-module
+{
+	display: none !important;
+}

@@ -1,0 +1,9 @@
+/* News feed */
+div[id*='topnews'],
+/* Right column / Chat sidebar: news ticker */
+div[id*="ticker"],
+/* Right column: Trending tags and topics */
+div[id*="pagelet_trending_tags_and_topics"] 
+{
+  display: none !important;
+}
